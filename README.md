@@ -23,3 +23,7 @@ on
 [quay.io](https://quay.io/repository/pancho/test-dockerignore-on-quay?tab=builds).
 
 Thanks for watching.
+
+# UPDATE 20200404
+I've checked and this now works OK on Quay.io.
+Archiving...
